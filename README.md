@@ -1,6 +1,6 @@
 # Setup GitHub Copilot CLI for fish shell
 
-[Copilot for CLI](https://githubnext.com/projects/copilot-cli) integrates Copilot into your CLi.
+[Copilot for CLI](https://githubnext.com/projects/copilot-cli) integrates Copilot into your shell.
 
 If have access to this feature, few steps are needed to activate Copilot in your shell. [Official instructions](https://www.npmjs.com/package/@githubnext/github-copilot-cli#alias-convenience-commands) support zsh and bash shells, but with few changes the aliases for Copilot CLI can be integrated into fish.
 
