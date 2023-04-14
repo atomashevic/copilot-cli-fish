@@ -1,4 +1,4 @@
-# Setup GitHub Copilot CLI
+# Setup GitHub Copilot CLI for fish shell
 
 [Copilot for CLI](https://githubnext.com/projects/copilot-cli) integrates Copilot into your CLi.
 
