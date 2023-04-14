@@ -10,7 +10,7 @@ First step is to install Copilot for CLI from fish:
 npm install -g @githubnext/github-copilot-cli
 ```
 
-Second step is to authenticate your GH account:
+Second step is to authenticate your GitHub account:
 
 ```
 github-copilot-cli auth
