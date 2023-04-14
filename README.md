@@ -20,9 +20,9 @@ After authentication is completed you essentially have everything you need excep
 
 Restart your shell and you will have aliases for three comands at your disposal:
 
-1. wts <query> : Runs what-the-shell which gives shell commands from natural language descriptions
-2. gitq <query>: Runs git-assist which gives git commands from natural language descriptions
-3. ghq <query>: Runs gh-assist which gives gh (official GitHub cli tool) commands from natueral language descriptions
+1. `wts <query>` : Runs what-the-shell which gives shell commands from natural language descriptions
+2. `gitq <query>`: Runs git-assist which gives git commands from natural language descriptions
+3. `ghq <query>` : Runs gh-assist which gives gh (official GitHub cli tool) commands from natueral language descriptions
 
 You can customize the aliases in your fish .config file.
 
